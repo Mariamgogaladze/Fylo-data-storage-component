@@ -10,7 +10,7 @@ This is Fylo data storage component, built using HTML and CSS. The page includes
 
 ## Demo
 
-You can try out the live demo of the Testimonials grid section here :
+You can try out the live demo of the Testimonials grid section here : https://mariamgogaladze.github.io/Fylo-data-storage-component/
 
 # Installation
 To use this project, simply clone or download the repository and open the index.html file in your web browser.
