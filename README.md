@@ -2,7 +2,7 @@
 ## Fylo data storage component
 
 ![ Fylo data storage component](/preview.jpeg)
-![ Fylo data storage component mobile](/preview.jpeg)
+![ Fylo data storage component mobile](/preview-2.jpeg)
 
 
 This is Fylo data storage component, built using HTML and CSS. The page includes responsive design elements, such as flexbox and grid, to ensure it looks great on screen sizes of 375px and 900px or larger.
